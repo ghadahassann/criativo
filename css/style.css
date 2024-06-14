@@ -295,7 +295,7 @@ header {
 }
 
 /* tablets */
-@media only screen and (min-width: 769px) and (max-width: 1280px) {
+@media only screen and (min-width: 769px) and (max-width: 1454px) {
     .naver {
         height: 80px;
     }
@@ -390,7 +390,7 @@ header {
 .home-content {
     position: absolute;
     width: 50%;
-    top: 180px;
+    top: 30%;
     z-index: 2;
     color: white;
     text-align: left;
@@ -494,10 +494,7 @@ header {
         height: 100%;
         opacity: 0.7; 
     }
-    .home-content {
-        top: 130px;
-        
-    }
+
     .home-content h1 {
         font-size: 15px;
         text-transform: uppercase;
@@ -578,10 +575,8 @@ header {
         letter-spacing: 0px;
     }
     .line {
-       
         height: 2px;
         margin-bottom: 10px;
-       
     }
     .sec {
         height: 60vh;
@@ -598,10 +593,6 @@ header {
         width: 50%;
         height: 100%;
         opacity: 0.7; 
-    }
-    .home-content {
-        top: 130px;
-        
     }
     .home-content h1 {
         font-size: 30px;
@@ -665,7 +656,7 @@ header {
     }
 
 }
-@media only screen and (min-width : 769px) and (max-width :1280px){
+@media only screen and (min-width : 769px) and (max-width :1454px){
     h3 {
         font-size: 13px;
     }
@@ -674,13 +665,15 @@ header {
         letter-spacing: 0px;
     }
     .line {
-       
         height: 2px;
         margin-bottom: 10px;
-       
+    }
+    .sec {
+        height: 60vh;
     }
     .overlay {
         padding-bottom: 60px;
+        height: 60vh;
     }
     .overlay img {
         position: absolute;
@@ -689,10 +682,7 @@ header {
         height: 100%;
         opacity: 0.7; 
     }
-    .home-content {
-        top: 160px;
-        
-    }
+
     .home-content h1 {
         font-size: 40px;
         text-transform: uppercase;
@@ -988,7 +978,7 @@ header {
     
 }
 /* large */
-@media only screen and (min-width: 769px) and (max-width : 1280px){
+@media only screen and (min-width: 769px) and (max-width : 1454px){
     .services {
         padding: 50px 0;
     }
@@ -1199,7 +1189,7 @@ header {
     
 }
 /* tablets */
-@media only screen and (min-width : 769px) and (max-width: 1280px){
+@media only screen and (min-width : 769px) and (max-width: 1454px){
     .about {
         padding:50px 0 ;
         height: 322px;
@@ -1373,7 +1363,7 @@ header {
     }
 }
 /* tablets  */
-@media only screen and (min-width : 768px) and (max-width : 1280px){
+@media only screen and (min-width : 768px) and (max-width : 1454px){
     .members {
         height: 250px;
     }
@@ -1541,7 +1531,7 @@ header {
     }
 }
 /* tablets  */
-@media only screen and (min-width: 768px) and (max-width: 1280px){
+@media only screen and (min-width: 768px) and (max-width: 1454px){
     .project {
         padding : 50px 0px;
     }
@@ -1641,7 +1631,7 @@ header {
     }
 }
 /* tablets */
-@media only screen and (min-width : 768px) and (max-width : 1280px){
+@media only screen and (min-width : 768px) and (max-width : 1454px){
     .logo {
         height : 150px;
     }
@@ -1836,7 +1826,7 @@ header {
     }
 }
 /* tablets */
-@media only screen and (min-width : 768px) and (max-width :1280px){
+@media only screen and (min-width : 768px) and (max-width :1454px){
     .marketing {
         padding: 50px;
     }
@@ -2064,18 +2054,19 @@ header {
     }
 }
 /* tablets  */
-@media only screen and (min-width : 768px) and (max-width :1280px){
+@media only screen and (min-width : 768px) and (max-width :1454px){
     .team {
         padding: 50px 0 ;
+        height: 100vh;
     }
     .team-2 {
         margin-top: 0px;
+        
     }
     .team-2 .employee {
         margin: 15px 8px;
         padding: 8px 0;
-        
-        width: 45%;
+        width: 40%;
         
     }
     .employee div {
@@ -2116,7 +2107,7 @@ header {
 
 /* portifolio section start  */
 .portfolio {
-    padding: 70px 0px;
+    padding: 70px 0;
     background-color: #000;
 }
 .port-2 {
@@ -2158,7 +2149,7 @@ header {
     }
 }
 /* tablets  */
-@media only screen and (min-width : 768px ) and (max-width : 1280px){
+@media only screen and (min-width : 768px ) and (max-width : 1454px){
     .portfolio {
         padding: 50px 0px;
     }
@@ -2326,7 +2317,7 @@ header {
     }
 }
 /* tablets */
-@media only screen and (min-width: 768px) and (max-width: 1280px){
+@media only screen and (min-width: 768px) and (max-width: 1454px){
     .client  {
         padding: 50px;
     }
@@ -2454,7 +2445,7 @@ header {
 
 }
 /* tablets  */
-@media only screen and (min-width: 768px) and (max-width: 1280px) {
+@media only screen and (min-width: 768px) and (max-width: 1454px) {
     .blog {
         padding: 50px;
     }
@@ -2669,7 +2660,7 @@ header {
 
 }
 /* tablets  */
-@media only screen and (min-width: 768px) and (max-width: 1280px) {
+@media only screen and (min-width: 768px) and (max-width: 1454px) {
     .contact {
         padding: 50px 0;
     }
@@ -2806,7 +2797,7 @@ header {
     }
 }
 /* tablets  */
-@media only screen and (min-width: 768px) and (max-width: 1280px) {
+@media only screen and (min-width: 768px) and (max-width: 1454px) {
     .foot-f h1{
         font-size: 40px;
 
