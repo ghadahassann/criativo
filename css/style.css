@@ -880,6 +880,7 @@ header {
     h2 {
         font-size: 15px;
         margin-bottom: 10px;
+        letter-spacing: 0.3px;
     }
 
     .view-btn {
@@ -897,12 +898,12 @@ header {
         height: 30px;
     }
     .ser-content h2 {
-        font-size: 12px;
-        margin: 5px 0;
+        font-size: 8px;
+        margin: 3px 0;
         letter-spacing: 0px;
     }
     .ser-content p{
-        margin: 10px 0;
+        margin: 6px 0;
     }
     
 
@@ -1985,14 +1986,15 @@ header {
 
     }
     .employee h2 {
-        font-size: 10px;
-        margin-bottom: 10px;
+        font-size: 8px;
+        margin-bottom: 6px;
+        letter-spacing: 0.3px;
     }
     .employee span {
         font-size: 8px;
     }
     .employee p {
-        margin: 6px 0;
+        margin: 4px 0;
     }
     .employ-content {
         margin-left: 6px;
@@ -2597,7 +2599,7 @@ header {
     }
     .contact-icon h4 {
         font-size: 6px;
-        margin-bottom: 0px;
+        margin-bottom: -10px;
         color: #fff;
         font-weight: 500;
     }
