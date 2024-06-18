@@ -1120,34 +1120,38 @@ header {
         display: none;
     }
     .about-2 {
-        align-items: center; 
-        width: 75%;
+        width: 100%;
         margin: auto;
         text-align: center; 
     }
     .about-2 .line {
         margin: auto;
     }
+    .about-desc{
+        margin: auto;
+        width: 60%;
+    }
     .about-icon {
-
-        margin-top: 20px;
-        width: 100%;
+        width: 75%;
         justify-content: center;
+        align-items: center;
+        margin: auto;
     }
     .about-icon1 {
-        width: 45%;
+        width: 35%;
         padding-left: 30px;
-        margin-right: 10px;
-        text-align: left;
+        margin-right: 5px;
+        text-align: left
 
     }
     .about-icon1 h4 {
-        font-size: 9px;
+        font-size: 8px;
         letter-spacing: 0px;
     }
     .about-icon1 img {
         width: 20px;
     }
+
     
 }
 /* portrait tablets and large phones  */
