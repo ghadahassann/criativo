@@ -164,7 +164,7 @@ header {
  /* media query header */
  @media only screen and (max-width: 600px) {
     .naver{
-        height: 60px;
+        height: 50px;
     }
     .nav-f {
         margin-top: 13px;
