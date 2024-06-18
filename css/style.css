@@ -1121,7 +1121,7 @@ header {
     }
     .about-2 {
         align-items: center; 
-        width: 60%;
+        width: 75%;
         margin: auto;
         text-align: center; 
     }
@@ -1129,6 +1129,7 @@ header {
         margin: auto;
     }
     .about-icon {
+
         margin-top: 20px;
         width: 100%;
         justify-content: center;
@@ -1142,6 +1143,7 @@ header {
     }
     .about-icon1 h4 {
         font-size: 9px;
+        letter-spacing: 0px;
     }
     .about-icon1 img {
         width: 20px;
