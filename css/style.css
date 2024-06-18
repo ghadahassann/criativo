@@ -170,15 +170,15 @@ header {
         margin-top: 13px;
     }
     .nav-f h1 {
-        font-size: 25px;
+        font-size: 20px;
         
     }
     
     .nav-f span {
         font-size: 3.5px;
-        top: 25px;
+        top: 20px;
         right: 0px;
-        letter-spacing: 2px;
+        letter-spacing: 1.1px;
     }
     .nav-sec .menu {
         display: block;
@@ -1986,9 +1986,8 @@ header {
 
     }
     .employee h2 {
-        font-size: 8px;
-        margin-bottom: 6px;
-        letter-spacing: 0.3px;
+        font-size: 11px;
+        margin-bottom: 10px;
     }
     .employee span {
         font-size: 8px;
@@ -2751,14 +2750,14 @@ header {
 /* phones  */
 @media only screen and (max-width: 600px) {
     .foot-f h1{
-        font-size: 25px;
+        font-size: 20px;
 
     }
     .foot-f span {
         font-size: 3.5px;
-        top: 25px;
+        top: 20px;
         right: 0px;
-        letter-spacing: 2px;
+        letter-spacing: 1.1px;
     }
     .end {
         padding: 30px 0;
