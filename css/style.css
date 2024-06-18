@@ -2379,6 +2379,9 @@ header {
     color: var(--main-color);
     
 }
+.b-list ,.date {
+    display: inline-block;
+}
 .fa-list-ul {
     margin-left: 20px;
 }
@@ -2394,28 +2397,33 @@ header {
         padding: 30px;
     }
     .blog-2 {
-        flex-wrap: wrap;
         gap: 10px;
         margin-top: 10px;
     }
     .blog-content h4 {
-        font-size: 6px;
-        line-height: 10px;
+        font-size: 5px;
+        line-height: 7px;
         height: 10px;
     }
     .blog-content p{
         margin: 10px 0;
+        font-size: 4px;
     }
     .fa-list-ul {
-        margin-left: 8px;
+        margin-left:0px;
+    }
+    .date , .b-list {
+        display: block;
+        margin-top: -8px;
     }
     .blog-content i {
-        font-size: 6px;
-
+        font-size: 5px;
+    
     }
     .blog-content span {
-        margin: 0px 1px;
-        font-size: 4px;
+       font-size: 4px ;
+       margin: 0px;
+    
     }
 
 }
