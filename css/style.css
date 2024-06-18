@@ -1295,11 +1295,15 @@ header {
 /* media query for members  */
 /* phones  */
 @media only screen and (max-width : 600px){
+    .members .container {
+        gap: 6px;
+    }
     .members {
         height: 150px;
     }
     .mem-content {
         margin-top: 30px;
+        
     }
     .mem-content span {
         display: block;
@@ -1756,11 +1760,11 @@ header {
         margin-top: 40px;
     }
     .mar-sec2 {
-        width: 30%;
+        width: 35%;
 
     }
     .mar-abso-1 .fa-circle-play , .mar-abso-2 .fa-circle-play {
-        font-size: 30px;
+        font-size: 20px;
     }
     .mar-abso-2 {
         margin-top: 0px;
