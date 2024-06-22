@@ -127,10 +127,10 @@ header {
 .nav-f span , .foot-f span{
     position: absolute;
     top:50px;
-    right: 2px;
+    right: 0px;
     width: 100%;
     color: white;
-    font-size: 8px;
+    font-size: 8.5px;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
